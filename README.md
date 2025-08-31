@@ -2,6 +2,8 @@
 
 A brief explanation of the agentic training system we built.
 
+(Find the notebook [here](https://github.com/unverciftci/AI_Trainer/blob/main/AI_Trainer.ipynb))
+
 ---
 
 ## 🎯 The Core Concept
